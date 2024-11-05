@@ -1,2 +1,2 @@
 # Proagrobio_mango
-Base de datos de variedades de mango
+“CARACTERIZACION DE PLANTA,  EN 20 VARIEDADES DE MANGO (Mangifera indica L.) DE LA COLECCIÓN DE GERMOPLASMA DEL INIA – PIURA.”
